@@ -21,6 +21,6 @@ RedM rhodes bank robbery script for Vorp Framework
 
 ======================================
 
-- For this script i used some of the Perry_BankHeist script and changed it to make it into a smaller and easier bannk robbery script without the guarma teleport stuff ect so all props to the creators of that script
+- For this script i used some of the Perry_BankHeist script and changed it to make it into a smaller and easier bank robbery script without the guarma teleport stuff ect so all props to the creators of that script
 this is a simple little robbery at the rhodes bank
 Hope you enjoy this!
